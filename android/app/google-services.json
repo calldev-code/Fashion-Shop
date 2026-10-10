@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "46694366743",
+    "project_id": "tokobaju-fda15",
+    "storage_bucket": "tokobaju-fda15.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46694366743:android:f79a58ec4c936bb796a652",
+        "android_client_info": {
+          "package_name": "com.example.toko_baju"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZCWJ-2Giyc63tbNUnkE5rFOedZCTC-8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
